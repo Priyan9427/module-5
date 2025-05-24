@@ -143,8 +143,8 @@ int main() {
 
 ## OUTPUT
 
+![Screenshot 2025-05-24 104729](https://github.com/user-attachments/assets/5c3ad285-bac8-4b2f-8977-2c921a2513df)
 
-![445989134-2290eadf-4bf2-4082-bd53-5bfbb12652d3](https://github.com/user-attachments/assets/7a8c65bc-d530-4da2-b2f5-e035d588a205)
 
 
 
